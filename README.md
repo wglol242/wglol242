@@ -1,4 +1,4 @@
-# DEAD CAT 🐈‍⬛
+# WONJIN KIM 💪
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lol242)](https://solved.ac/lol242/)
 
