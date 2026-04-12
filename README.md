@@ -12,7 +12,7 @@
 
 ## 백준
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lol242)](https://solved.ac/lol242/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lol242)](https://solved.ac/profile/lol242/)
 
 
 ## Profile
