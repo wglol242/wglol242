@@ -10,11 +10,6 @@
 
 현재는 수술 현장의 의사들이 수술 로봇을 직관적으로 사용하게 해주는 시스템 소프트웨어 개발자로 커리어를 시작하여 수행 중입니다.
 
-## 백준
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lol242)](https://solved.ac/profile/lol242/)
-
-
 ## Profile
 
 ## Projects
