@@ -79,10 +79,10 @@ C/C++은 독학으로 익히며 개발 역량을 넓혀왔습니다.
 | **기간** | 2025.06 ~ 2025.09 |
 | **작업 인원** | 2명 |
 | **역할** | 백엔드 담당, 기술 구현 |
-| **기술 스택** | Python, Docker, LLM API |
+| **기술 스택** | Python, Docker, Gemini API |
 | **성과** | 백엔드 기능 구현 및 기술 구조 설계 |
 | **GitHub** | [바로가기](https://github.com/wglol242/Tagscope_AI) |
-| **영상자료** | [바로가기](https://github.com/wglol242/MS_ToDo) |
+| **영상자료** | [바로가기](https://www.youtube.com/watch?v=7VTFM_E_Vh4) |
 
 </div>
 
