@@ -32,47 +32,53 @@ MOS Maste - Microsoft
 
 ### 팀 프로젝트
 
-#### 1. 프로젝트명
-<img src="https://github.com/user-attachments/assets/b82b954c-76c6-46ac-912d-0d76775dd018" width="500"/>
+#### 1. SenseBelt - assist belt with haptic feedback
+<img src="https://github.com/user-attachments/assets/aaac73ed-e58d-47e8-bc59-ff4674d7bf4d" width="500" height="300"/>
+<br>
 
 > 한 줄 소개
 
-- **기간**: 2025.03 ~ 2025.06
-- **역할**: 모델 개발 / UI 구현 / 하드웨어 연동
-- **기술 스택**: Python, C++, OpenCV, PyTorch
+- **기간**: 2025.08~2025.11
+- **작업 인원**: 2명
+- **역할**: 회로 설계
+- **기술 스택**: 회로 설계, 3D 모델링
 - **설명**: 나사 이미지를 분석하여 종류와 위치를 판별하는 비전 시스템을 개발했습니다.
 - **성과**: 이미지 전처리부터 결과 시각화까지 전체 파이프라인 구현
-- **GitHub**: [바로가기](링크)
+- **GitHub**: [바로가기](https://github.com/wglol242/it-con)
 
-#### 2. 프로젝트명
-<img src="https://github.com/user-attachments/assets/5ab926c7-86b0-4348-8312-6170c9de24c7" width="500"/>
+#### 2. Tagscope AI (AI 기반 지능형 북마크 시스템)
+<img src="https://github.com/user-attachments/assets/5ab926c7-86b0-4348-8312-6170c9de24c7" width="500" height="300"/>
+<br>
 
 > 한 줄 소개
 
-- **기간**: 2025.03 ~ 2025.06
-- **역할**: 모델 개발 / UI 구현 / 하드웨어 연동
-- **기술 스택**: Python, C++, OpenCV, PyTorch
+- **기간**: 2025.06~2025.09
+- **작업 인원**: 2명
+- **역할**: 백엔드 담당, 기술 구현
+- **기술 스택**: Python, Docker
 - **설명**: 나사 이미지를 분석하여 종류와 위치를 판별하는 비전 시스템을 개발했습니다.
 - **성과**: 이미지 전처리부터 결과 시각화까지 전체 파이프라인 구현
-- **GitHub**: [바로가기](링크)
+- **GitHub**: [바로가기](https://github.com/wglol242/Tagscope_AI)
 
 ### 개인 프로젝트
 
-#### 1. 프로젝트명
-<img src="https://github.com/user-attachments/assets/791631fc-a63f-4e87-a89c-bb742cf7b884" width="500"/>
+#### 1. 나사 검출기
 
+<img src="https://github.com/user-attachments/assets/791631fc-a63f-4e87-a89c-bb742cf7b884" width="500" height="300"/>
+<br>
 
 > 한 줄 소개
 
 - **기간**: 2025.03 ~ 2025.06
-- **역할**: 모델 개발 / UI 구현 / 하드웨어 연동
-- **기술 스택**: Python, C++, OpenCV, PyTorch
+- **기술 스택**: C++, OpenCV, MFC, ONNX
 - **설명**: 나사 이미지를 분석하여 종류와 위치를 판별하는 비전 시스템을 개발했습니다.
 - **성과**: 이미지 전처리부터 결과 시각화까지 전체 파이프라인 구현
-- **GitHub**: [바로가기](링크)
+- **GitHub**: [바로가기](https://github.com/wglol242/Screw_Finder)
 
 #### 2. 프로젝트명
+
 <img src="이미지링크" width="500"/>
+<br>
 
 > 한 줄 소개
 
