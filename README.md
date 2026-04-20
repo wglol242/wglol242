@@ -30,6 +30,59 @@ MOS Maste - Microsoft
 
 ## Projects
 
+### 팀 프로젝트
+
+#### 1. 프로젝트명
+<img src="https://github.com/user-attachments/assets/b82b954c-76c6-46ac-912d-0d76775dd018" width="500"/>
+
+> 한 줄 소개
+
+- **기간**: 2025.03 ~ 2025.06
+- **역할**: 모델 개발 / UI 구현 / 하드웨어 연동
+- **기술 스택**: Python, C++, OpenCV, PyTorch
+- **설명**: 나사 이미지를 분석하여 종류와 위치를 판별하는 비전 시스템을 개발했습니다.
+- **성과**: 이미지 전처리부터 결과 시각화까지 전체 파이프라인 구현
+- **GitHub**: [바로가기](링크)
+
+#### 2. 프로젝트명
+<img src="https://github.com/user-attachments/assets/5ab926c7-86b0-4348-8312-6170c9de24c7" width="500"/>
+
+> 한 줄 소개
+
+- **기간**: 2025.03 ~ 2025.06
+- **역할**: 모델 개발 / UI 구현 / 하드웨어 연동
+- **기술 스택**: Python, C++, OpenCV, PyTorch
+- **설명**: 나사 이미지를 분석하여 종류와 위치를 판별하는 비전 시스템을 개발했습니다.
+- **성과**: 이미지 전처리부터 결과 시각화까지 전체 파이프라인 구현
+- **GitHub**: [바로가기](링크)
+
+### 개인 프로젝트
+
+#### 1. 프로젝트명
+<img src="https://github.com/user-attachments/assets/791631fc-a63f-4e87-a89c-bb742cf7b884" width="500"/>
+
+
+> 한 줄 소개
+
+- **기간**: 2025.03 ~ 2025.06
+- **역할**: 모델 개발 / UI 구현 / 하드웨어 연동
+- **기술 스택**: Python, C++, OpenCV, PyTorch
+- **설명**: 나사 이미지를 분석하여 종류와 위치를 판별하는 비전 시스템을 개발했습니다.
+- **성과**: 이미지 전처리부터 결과 시각화까지 전체 파이프라인 구현
+- **GitHub**: [바로가기](링크)
+
+#### 2. 프로젝트명
+<img src="이미지링크" width="500"/>
+
+> 한 줄 소개
+
+- **기간**: 2025.03 ~ 2025.06
+- **역할**: 모델 개발 / UI 구현 / 하드웨어 연동
+- **기술 스택**: Python, C++, OpenCV, PyTorch
+- **설명**: 나사 이미지를 분석하여 종류와 위치를 판별하는 비전 시스템을 개발했습니다.
+- **성과**: 이미지 전처리부터 결과 시각화까지 전체 파이프라인 구현
+- **GitHub**: [바로가기](링크)
+
 ## Stacks
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
