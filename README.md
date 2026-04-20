@@ -58,7 +58,6 @@ C/C++은 독학으로 익히며 개발 역량을 넓혀왔습니다.
 | **기술 스택** | 회로 설계, 3D 모델링 |
 | **성과** | 하드웨어 구조 설계 및 시스템 구현에 기여 |
 | **GitHub** | [바로가기](https://github.com/wglol242/it-con) |
-| **영상자료** | [바로가기](https://github.com/wglol242/MS_ToDo) |
 
 </div>
 
@@ -112,7 +111,7 @@ C/C++은 독학으로 익히며 개발 역량을 넓혀왔습니다.
 
 ---
 
-### 4. MS To Do & Study Assistant
+### 4. Workspace Assistant
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/78c99d34-3dae-4861-9022-b87fe313aee1" width="600" height="300"/>
@@ -120,7 +119,7 @@ C/C++은 독학으로 익히며 개발 역량을 넓혀왔습니다.
 
 <div align="center">
   
-  <b>학습 보조와 일정 관리를 결합한 스마트 데스크 시스템</b>
+  <b>이메일, 일정, Focus Mode, 할 일 정보를 통합 연동하는 워크스페이스용 IoT 어시스턴트</b>
 </p>
 
 | 항목 | 내용 |
@@ -129,7 +128,7 @@ C/C++은 독학으로 익히며 개발 역량을 넓혀왔습니다.
 | **기술 스택** | C++, C#, PCB 설계, Microsoft Graph API |
 | **성과** | 소프트웨어 구현과 하드웨어 설계를 연계한 통합 시스템 제작 |
 | **GitHub** | [바로가기](https://github.com/wglol242/MS_ToDo) |
-| **영상자료** | [바로가기](https://github.com/wglol242/MS_ToDo) |
+| **영상자료** | [바로가기](https://www.youtube.com/shorts/xw0jj7G-Dvg) |
 
 </div>
 
