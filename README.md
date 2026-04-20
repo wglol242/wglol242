@@ -4,7 +4,29 @@
 
 **안녕하세요. 개발자 김원진입니다.**
 
+저는 연세대학교 미래캠퍼스에서 의료시스템공학을 전공했으며, 연계전공으로 신촌캠퍼스에서 인지과학을 공부했습니다.
+
+학부 시절에는 주로 파이썬을 활용한 의료 AI 분야를 학습했고, C/C++은 독학으로 익히며 개발 역량을 넓혀왔습니다.
+
+또한 회로 설계와 PCB 설계 경험을 바탕으로 하드웨어에 대한 이해도 함께 갖추고 있으며, 컴퓨터 비전 분야에도 큰 관심을 가지고 있습니다.
+
+앞으로는 의료기기, 반도체, 로봇 등 다양한 산업 분야에서 비전 기술을 활용한 기계 설계와 개발에 기여할 수 있는 엔지니어로 성장하고자 합니다.
+
 ## Profile
+
+**학력**
+
+2020.03 ~ 2026.02 연세대학교(미래) 의료시스템공학/인지과학 졸업 
+
+**수상**
+
+제8회 대한전자공학회 IT 창의 챌린지 (금상) - (사)대한전자공학회
+
+AI 사피엔스 경진대회 (최우수) - 연세대학교 미래캠퍼스
+
+**자격증**
+
+MOS Maste - Microsoft
 
 ## Projects
 
@@ -13,6 +35,10 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 
 ## How i work (개발자로서)
+
+- 개발자로서 저는 완성도 높은 결과물과 안정적인 동작을 가장 중요하게 생각합니다.
+- 소프트웨어 역량뿐만 아니라 하드웨어에 대한 이해와 경험도 갖추고 있어, 시스템을 보다 넓은 관점에서 바라보고 설계할 수 있습니다.
+- 또한 타인을 존중하며 원활하게 소통할 수 있고, 협업을 통해 더 좋은 성과를 만들어내는 것을 중요하게 생각합니다.
 
 ## Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lol242@yonsei.ac.kr)](mailto:lol242@yonsei.ac.kr)
