@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 의료 AI · 컴퓨터 비전 · 하드웨어 이해를 갖춘 개발자
+### 소프트웨어 구현부터 하드웨어 이해까지 갖춘 비전 개발자
 
 </div>
 
@@ -36,9 +36,7 @@ C/C++은 독학으로 익히며 개발 역량을 넓혀왔습니다.
 
 ---
 
-## 🚀 Projects
-
-## 1️⃣ 팀 프로젝트
+## 📂 Projects
 
 ### 1. SenseBelt - Assist Belt with Haptic Feedback
 
@@ -58,9 +56,9 @@ C/C++은 독학으로 익히며 개발 역량을 넓혀왔습니다.
 | **작업 인원** | 2명 |
 | **역할** | 회로 설계 |
 | **기술 스택** | 회로 설계, 3D 모델링 |
-| **설명** | 햅틱 피드백 기반의 보조 벨트 시스템 개발 프로젝트에 참여하여 회로 설계를 담당했습니다. |
 | **성과** | 하드웨어 구조 설계 및 시스템 구현에 기여 |
 | **GitHub** | [바로가기](https://github.com/wglol242/it-con) |
+| **영상자료** | [바로가기](https://github.com/wglol242/MS_ToDo) |
 
 </div>
 
@@ -82,18 +80,16 @@ C/C++은 독학으로 익히며 개발 역량을 넓혀왔습니다.
 | **기간** | 2025.06 ~ 2025.09 |
 | **작업 인원** | 2명 |
 | **역할** | 백엔드 담당, 기술 구현 |
-| **기술 스택** | Python, Docker |
-| **설명** | 북마크 데이터를 효율적으로 저장·분류·관리할 수 있도록 AI 기반의 지능형 북마크 시스템을 개발했습니다. |
+| **기술 스택** | Python, Docker, LLM API |
 | **성과** | 백엔드 기능 구현 및 기술 구조 설계 |
 | **GitHub** | [바로가기](https://github.com/wglol242/Tagscope_AI) |
+| **영상자료** | [바로가기](https://github.com/wglol242/MS_ToDo) |
 
 </div>
 
 ---
 
-## 2️⃣ 개인 프로젝트
-
-### 1. 나사 검출기
+### 3. 나사 검출기
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/791631fc-a63f-4e87-a89c-bb742cf7b884" width="600" height="300"/>
@@ -106,17 +102,17 @@ C/C++은 독학으로 익히며 개발 역량을 넓혀왔습니다.
 
 | 항목 | 내용 |
 |------|------|
-| **기간** | 2026.02 ~ 2025.04 |
+| **기간** | 2026.02 ~ 2026.04 |
 | **기술 스택** | C++, OpenCV, MFC, ONNX |
-| **설명** | 나사 이미지를 분석하여 종류와 위치를 판별하는 비전 시스템을 개발했습니다. |
 | **성과** | 이미지 전처리부터 결과 시각화까지 전체 파이프라인 구현 |
 | **GitHub** | [바로가기](https://github.com/wglol242/Screw_Finder) |
+| **영상자료** | [바로가기](https://github.com/wglol242/MS_ToDo) |
 
 </div>
 
 ---
 
-### 2. MS To Do & Study Assistant
+### 4. MS To Do & Study Assistant
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/78c99d34-3dae-4861-9022-b87fe313aee1" width="600" height="300"/>
@@ -130,10 +126,10 @@ C/C++은 독학으로 익히며 개발 역량을 넓혀왔습니다.
 | 항목 | 내용 |
 |------|------|
 | **기간** | 2025.11 ~ 2026.01 |
-| **기술 스택** | C++, C#, PCB 설계 |
-| **설명** | MS To Do와 연계하여 학습 일정 관리와 보조 기능을 제공하는 시스템을 개발했습니다. |
+| **기술 스택** | C++, C#, PCB 설계, Microsoft Graph API |
 | **성과** | 소프트웨어 구현과 하드웨어 설계를 연계한 통합 시스템 제작 |
 | **GitHub** | [바로가기](https://github.com/wglol242/MS_ToDo) |
+| **영상자료** | [바로가기](https://github.com/wglol242/MS_ToDo) |
 
 </div>
 
@@ -146,7 +142,7 @@ C/C++은 독학으로 익히며 개발 역량을 넓혀왔습니다.
 
 ---
 
-## 🤝 How I Work
+## 👨‍💻 How I Work
 
 저는 **완성도 높은 결과물**과 **안정적인 동작**을 가장 중요하게 생각합니다.
 
