@@ -88,7 +88,7 @@ C/C++은 독학으로 익히며 개발 역량을 넓혀왔습니다.
 
 ---
 
-### 3. 나사 검출기
+### 3. Screw Finder (비전 나사 검출기)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/791631fc-a63f-4e87-a89c-bb742cf7b884" width="600" height="300"/>
@@ -96,7 +96,7 @@ C/C++은 독학으로 익히며 개발 역량을 넓혀왔습니다.
 
 <div align="center">
 
-**나사 이미지에서 종류와 위치를 판별하는 비전 시스템**
+**비전 기반 나사 검출 및 위치 분석 시스템**
 
 
 | 항목 | 내용 |
@@ -105,7 +105,7 @@ C/C++은 독학으로 익히며 개발 역량을 넓혀왔습니다.
 | **기술 스택** | C++, OpenCV, MFC, ONNX |
 | **성과** | 이미지 전처리부터 결과 시각화까지 전체 파이프라인 구현 |
 | **GitHub** | [바로가기](https://github.com/wglol242/Screw_Finder) |
-| **영상자료** | [바로가기](https://github.com/wglol242/MS_ToDo) |
+| **영상자료** | [바로가기](https://youtu.be/ZSSlrIAlYAU) |
 
 </div>
 
