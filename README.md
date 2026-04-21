@@ -21,7 +21,7 @@ C/C++은 독학으로 익히며 개발 역량을 넓혀왔습니다.
 **컴퓨터 비전 분야**에도 큰 관심을 가지고 있습니다.
 
 앞으로는 의료기기, 반도체, 로봇 등 다양한 산업 분야에서  
-**비전 기술을 활용한 기계 설계와 개발에 기여할 수 있는 엔지니어**로 성장하고자 합니다.
+**비전 기술을 활용한 기계 설계와 개발에 기여할 수 있는 엔지니어**로 성장하고 싶습니다!
 
 ---
 
@@ -88,7 +88,7 @@ C/C++은 독학으로 익히며 개발 역량을 넓혀왔습니다.
 
 ---
 
-### 3. Screw Finder (비전 나사 검출기)
+### 3. Screw Finder - 비전 나사 검출기
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/791631fc-a63f-4e87-a89c-bb742cf7b884" width="600" height="300"/>
@@ -102,7 +102,8 @@ C/C++은 독학으로 익히며 개발 역량을 넓혀왔습니다.
 | 항목 | 내용 |
 |------|------|
 | **기간** | 2026.02 ~ 2026.04 |
-| **작업 인원** | 1명 |
+| **작업 인원** | 2명 |
+| **역할** | 비전 기술 구현 |
 | **기술 스택** | C++, OpenCV, MFC, ONNX |
 | **성과** | 이미지 전처리부터 결과 시각화까지 전체 파이프라인 구현 |
 | **GitHub** | [바로가기](https://github.com/wglol242/Screw_Finder) |
@@ -112,7 +113,7 @@ C/C++은 독학으로 익히며 개발 역량을 넓혀왔습니다.
 
 ---
 
-### 4. Workspace Assistant
+### 4. Workspace Assistant - 워크스페이스용 IoT 디바이스 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/78c99d34-3dae-4861-9022-b87fe313aee1" width="600" height="300"/>
