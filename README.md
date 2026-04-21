@@ -39,7 +39,7 @@ C/C++은 독학으로 익히며 개발 역량을 넓혀왔습니다.
 
 ## 📂 Projects
 
-### 1. Screw Finder - 비전 나사 검출기
+### 1. Screw Finder - 비전 기반 나사 검출기
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/791631fc-a63f-4e87-a89c-bb742cf7b884" width="600" height="300"/>
