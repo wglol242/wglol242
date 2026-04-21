@@ -39,57 +39,7 @@ C/C++은 독학으로 익히며 개발 역량을 넓혀왔습니다.
 
 ## 📂 Projects
 
-### 1. SenseBelt - Assist Belt with Haptic Feedback
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/aaac73ed-e58d-47e8-bc59-ff4674d7bf4d" width="600" height="300"/>
-</p>
-
-<div align="center">
-
-**사각지대 사고 예방을 위한 웨어러블 햅틱 피드백 벨트**
-
-
-| 항목 | 내용 |
-|------|------|
-| **기간** | 2025.08 ~ 2025.11 |
-| **작업 인원** | 2명 |
-| **역할** | 회로 설계 |
-| **기술 스택** | 회로 설계, 3D 모델링 |
-| **성과** | 거리별 초음파 신호를 PWM 신호로 변환하고, 디멀티플렉서를 활용해 여러 개의 모터를 제어 |
-| **GitHub** | [바로가기](https://github.com/wglol242/it-con) |
-| **수상** | [바로가기](http://www.it-con.or.kr/html/dh_board/lists/winner?cate_idx=86) |
-
-</div>
-
----
-
-### 2. Tagscope AI - AI 기반 지능형 북마크 시스템
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5ab926c7-86b0-4348-8312-6170c9de24c7" width="600" height="300"/>
-</p>
-
-<div align="center">
-
-**AI를 활용한 북마크 자동 분류 및 지능형 탐색 시스템**
-
-
-| 항목 | 내용 |
-|------|------|
-| **기간** | 2025.06 ~ 2025.09 |
-| **작업 인원** | 2명 |
-| **역할** | 백엔드 담당, 기술 구현 |
-| **기술 스택** | Python, Docker, Gemini API |
-| **성과** | AI 자동 태깅, 멀티 벡터 검색, 하이브리드 검색, LLM 리랭킹을 결합한 지능형 북마크 탐색 시스템 구현 |
-| **GitHub** | [바로가기](https://github.com/wglol242/Tagscope_AI) |
-| **영상자료** | [바로가기](https://www.youtube.com/watch?v=7VTFM_E_Vh4) |
-
-</div>
-
----
-
-### 3. Screw Finder - 비전 나사 검출기
+### 1. Screw Finder - 비전 나사 검출기
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/791631fc-a63f-4e87-a89c-bb742cf7b884" width="600" height="300"/>
@@ -114,7 +64,7 @@ C/C++은 독학으로 익히며 개발 역량을 넓혀왔습니다.
 
 ---
 
-### 4. Workspace Assistant - 워크스페이스용 IoT 디바이스 
+### 2. Workspace Assistant - 워크스페이스용 IoT 디바이스 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/78c99d34-3dae-4861-9022-b87fe313aee1" width="600" height="300"/>
@@ -133,6 +83,56 @@ C/C++은 독학으로 익히며 개발 역량을 넓혀왔습니다.
 | **성과** | 소프트웨어 구현과 하드웨어 설계를 연계한 통합 워크스페이스 시스템 제작 |
 | **GitHub** | [바로가기](https://github.com/wglol242/MS_ToDo) |
 | **영상자료** | [바로가기](https://www.youtube.com/shorts/xw0jj7G-Dvg) |
+
+</div>
+
+---
+
+### 3. SenseBelt - Assist Belt with Haptic Feedback
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aaac73ed-e58d-47e8-bc59-ff4674d7bf4d" width="600" height="300"/>
+</p>
+
+<div align="center">
+
+**사각지대 사고 예방을 위한 웨어러블 햅틱 피드백 벨트**
+
+
+| 항목 | 내용 |
+|------|------|
+| **기간** | 2025.08 ~ 2025.11 |
+| **작업 인원** | 2명 |
+| **역할** | 회로 설계 |
+| **기술 스택** | 회로 설계, 3D 모델링 |
+| **성과** | 거리별 초음파 신호를 PWM 신호로 변환하고, 디멀티플렉서를 활용해 여러 개의 모터를 제어 |
+| **GitHub** | [바로가기](https://github.com/wglol242/it-con) |
+| **수상** | [바로가기](http://www.it-con.or.kr/html/dh_board/lists/winner?cate_idx=86) |
+
+</div>
+
+---
+
+### 4. Tagscope AI - AI 기반 지능형 북마크 시스템
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5ab926c7-86b0-4348-8312-6170c9de24c7" width="600" height="300"/>
+</p>
+
+<div align="center">
+
+**AI를 활용한 북마크 자동 분류 및 지능형 탐색 시스템**
+
+
+| 항목 | 내용 |
+|------|------|
+| **기간** | 2025.06 ~ 2025.09 |
+| **작업 인원** | 2명 |
+| **역할** | 백엔드 담당, 기술 구현 |
+| **기술 스택** | Python, Docker, Gemini API |
+| **성과** | AI 자동 태깅, 멀티 벡터 검색, 하이브리드 검색, LLM 리랭킹을 결합한 지능형 북마크 탐색 시스템 구현 |
+| **GitHub** | [바로가기](https://github.com/wglol242/Tagscope_AI) |
+| **영상자료** | [바로가기](https://www.youtube.com/watch?v=7VTFM_E_Vh4) |
 
 </div>
 
