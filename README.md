@@ -159,3 +159,9 @@ C/C++은 독학으로 익히며 개발 역량을 넓혀왔습니다.
 ## 📫 Contact
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:lol242@yonsei.ac.kr)
+
+---
+
+## LeetCode
+
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=WONJINKIM)
