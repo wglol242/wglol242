@@ -164,4 +164,4 @@ C/C++은 독학으로 익히며 개발 역량을 넓혀왔습니다.
 
 ## 💻 LeetCode
 
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=WONJINKIM)
+![Leetcode Stats](https://leetcard.jacoblin.cool/WONJINKIM)
